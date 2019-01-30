@@ -5,6 +5,7 @@
 	
 	<target name="init" depends="prepare,compile,war" description="Clean work dirs, then compile and create a WAR then create the EAR">
 		<echo> Build completed for ${project.name} </echo>
+		<echo>we have write this message for commit</echo>
 	</target>
 	
 	<!-- Define the CLASSPATH -->
