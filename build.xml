@@ -8,8 +8,7 @@
 		<echo>we have write this message for commit</echo>
 	</target>
 	
-    <echo> "we have check how webhooks are working this is write for testing"/>
-	    
+    
 	    <!-- Define the CLASSPATH -->
 	<path id="compile.classpath">
 		<fileset dir="${web.home}/WEB-INF/lib">
