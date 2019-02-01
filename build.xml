@@ -8,6 +8,7 @@
 		<echo>we have write this message for commit</echo>
 	</target>
 	
+	<echo "this is only message"/>
 	<!-- Define the CLASSPATH -->
 	<path id="compile.classpath">
 		<fileset dir="${web.home}/WEB-INF/lib">
